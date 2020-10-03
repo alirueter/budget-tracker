@@ -1,11 +1,11 @@
 body {
   font-size: 120%;
-  font-family: Arial;
+  font-family: Oswald, sans-serif;
 }
 
 button, input {
   font-size: 100%;
-  font-family: Arial;
+  font-family: Oswald, sans-serif;
 }
 
 table {
@@ -34,7 +34,11 @@ tr:nth-child(even) {
 
 .total {
   font-size: 150%;
-  text-decoration: underline;
+  /* font-family: Oswald, sans-serif; */
+}
+
+.total2 {
+  font-family: Dosis, sans-serif;
 }
 
 .form {
@@ -48,4 +52,8 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+}
+
+.table-headers {
+  font-weight: bold;
 }
