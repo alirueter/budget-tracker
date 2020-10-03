@@ -13,7 +13,7 @@ Budget Tracker is a progressive web application that helps users keep track of t
 To use Budget Tracker, visit https://mighty-citadel-30446.herokuapp.com/.
 
 ## [Screenshots](#Screenshots)
-![](/images/btracker.png)
+![](btracker.png)
 
 ## [Contact](#Contact)
 To see more of my work, visit my GitHub profile: [alirueter](https://github.com/alirueter)
