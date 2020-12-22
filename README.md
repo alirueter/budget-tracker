@@ -19,4 +19,3 @@ To use Budget Tracker, visit https://mighty-citadel-30446.herokuapp.com/.
 To see more of my work, visit my GitHub profile: [alirueter](https://github.com/alirueter)
 
 If you have any questions, you can contact me at rueter.alison@gmail.com.
-    
